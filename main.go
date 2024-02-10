@@ -1,6 +1,6 @@
 package main
 
-import "github.com/zikmout/GoPlay/tree/main/app"
+import "github.com/zikmout/GoPlay.git/app"
 
 func main() {
 	app.Start()
